@@ -10,4 +10,14 @@ We'll be taking you through the basics of how to write code on your own laptop, 
 
  No prior knowledge of Python or programming is assumed and you can use any computer for this course.
 
- [Link to our Give It a Go talk](https://docs.google.com/presentation/u/1/d/1FHhpGavkM2se9Wfj_FkO1n-plpa4-wDqUkBz-9Ui_MQ)
+[Link to our Give It a Go talk](https://docs.google.com/presentation/u/1/d/1FHhpGavkM2se9Wfj_FkO1n-plpa4-wDqUkBz-9Ui_MQ)
+
+### Course Structure
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
