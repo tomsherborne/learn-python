@@ -3,13 +3,9 @@
 
 ###### Taught by Tom Sherborne, Pavlos Charalambides, Josiah Lee
 
-This is an an introductory course to the Python programming language. The objective of this course is to get you started building applications with an easy to learn and popular programming language. 
+This is an an introductory course to programming using the Python language. This course will teach you the basics of programming with Python, an easy to learn language popular with beginners. The course will cover basics (data structures, logic, variables) first and then move onto how Python can be used for financial analysis like option pricing and simple chart generation. For a general idea about this course, check out our introductory [Give It a Go! talk](https://docs.google.com/presentation/u/1/d/1FHhpGavkM2se9Wfj_FkO1n-plpa4-wDqUkBz-9Ui_MQ).
 
-We'll be taking you through the basics of how to write code on your own laptop, as well as how you can use Python for trading, pricing and financial analysis. 
-
-No prior knowledge of Python or programming is assumed and you can use any computer for this course, it is not recommended to use an iPad or device running a mobile operating system.
-
-[Give It a Go talk](https://docs.google.com/presentation/u/1/d/1FHhpGavkM2se9Wfj_FkO1n-plpa4-wDqUkBz-9Ui_MQ)
+This course is for beginners and no prior knowledge of Python is assumed, if you know another language like R or Java already then the basics will seem familiar. Instructions and support will be provided for Mac OS X, Linux and Windows users. Using an iPad or Android Tablet is not recommended. 
 
 ### Course Structure
 1. Getting setup, variables, loops and logic
