@@ -40,7 +40,7 @@ python3 -m ipykernel install --user
 ```
 
 #### Opening the lessons
-Create a folder on your Desktop called `learn-python` to keep all of the lesson files in. You are free to keep the downloaded files in a different place, but you will have to run different commands than below. The following commands assume your lessons are all in the folder `Desktop/learn-python`.
+Create a folder on your Desktop called `learn-python` to keep all of the lesson files in. You can download all lessons from the [LSESU Application Maths Website](http://www.lsesumaths.com/presentations.html). You are free to keep the downloaded files in a different place, but you will have to run different commands than below. The following commands assume your lessons are all in the folder `Desktop/learn-python`.
 
 Each lesson is a Jupyter Notebok `.ipynb` file, this is an interactive environment to test and run Python code line by line, To open the lesson file, open Terminal and run the following commands:
 
@@ -76,7 +76,7 @@ python -m ipykernel install --user
 
 #### Opening the lessons
 
-Create a folder on your Desktop called `learn-python` to keep all of the lesson files in. You are free to keep the downloaded files in a different place, but you will have to run different commands than below. The following commands assume your lessons are all in the folder `Desktop\learn-python`.
+Create a folder on your Desktop called `learn-python` to keep all of the lesson files in. You can download all lessons from the [LSESU Application Maths Website](http://www.lsesumaths.com/presentations.html). You are free to keep the downloaded files in a different place, but you will have to run different commands than below. The following commands assume your lessons are all in the folder `Desktop\learn-python`.
 
 Each lesson is a Jupyter Notebok `.ipynb` file, this is an interactive environment to test and run Python code line by line, To open the lesson file, open Command Prompt/PowerShell and run the following commands:
 
