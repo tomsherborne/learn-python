@@ -11,11 +11,11 @@ This course is for beginners and no prior knowledge of Python is assumed, if you
 1. Getting setup, variables, loops and logic
 2. Objects and functions, using libraries
 3. Strings, indexing, iterating, reading files, comprehensions
-4. Context managers, tuples and dicts, advanced comprehensions
-5. Classes and inheritance, OOP structure in Python, magic methods
+4. Useful Data structures (tuples, dicts and sets), More advanced comprehensions
+5. Creating classes of objects. Magic methods. OOP Structure in Python.
 6. Data manipulation with Numpy and Pandas
 7. Data visualisation with Matplotlib
-8. Python Project class
+8. Wrapup class, request a topic you want to learn about!
 
 ### Setup Instructions (Mac)
 #### Installing
