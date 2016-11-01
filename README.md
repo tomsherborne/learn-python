@@ -10,7 +10,7 @@ This course is for beginners and no prior knowledge of Python is assumed, if you
 ### Course Structure
 1. Getting setup, variables, loops and logic
 2. Objects and functions, using libraries
-3. Strings, indexing, iterating, reading files, comprehensions
+3. Strings and string indexing. Basics of reading files with open() and context managers. Introduction to lists and how to write a list comprehension.
 4. Useful Data structures (tuples, dicts and sets), More advanced comprehensions
 5. Creating classes of objects. Magic methods. OOP Structure in Python.
 6. Data manipulation with Numpy and Pandas
