@@ -1,7 +1,7 @@
 ##### LSESU Applicable Maths Society
 # Learn Programming in Python
 
-###### Taught by Tom Sherborne, Pavlos Charalambides, Josiah Lee
+###### Taught by Tom Sherborne with help from Pavlos Charalambides, Josiah Lee, Sam Knight
 
 This is an an introductory course to programming using the Python language. This course will teach you the basics of programming with Python, an easy to learn language popular with beginners. The course will cover basics (data structures, logic, variables) first and then move onto how Python can be used for financial analysis like option pricing and simple chart generation. For a general idea about this course, check out our introductory [Give It a Go! talk](https://docs.google.com/presentation/u/1/d/1FHhpGavkM2se9Wfj_FkO1n-plpa4-wDqUkBz-9Ui_MQ).
 
