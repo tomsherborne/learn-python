@@ -15,7 +15,6 @@ This course is for beginners and no prior knowledge of Python is assumed, if you
 5. Creating classes of objects. Magic methods. OOP Structure in Python.
 6. Data manipulation with Numpy and Pandas
 7. Data visualisation with Matplotlib
-8. Wrapup class, request a topic you want to learn about!
 
 ### Setup Instructions (Mac)
 #### Installing
